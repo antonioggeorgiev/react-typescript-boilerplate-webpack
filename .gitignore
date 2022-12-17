@@ -1,0 +1,9 @@
+# dependencies
+/node_modules
+.scss.d.ts
+
+# testing
+/coverage
+
+# production
+/build
